@@ -914,6 +914,10 @@ main {
     display: none;
 }
 
+.filter-list .filter-items .active {
+    color: var(--text-gradient-cyan);
+}
+
 .filter-select-box {
     position: relative;
     margin-bottom: 25px;
