@@ -338,7 +338,7 @@
     }
 
     .filter-item button.active {
-        color: var(--orange-yellow-crayola);
+        color: var(--orange-cyan-crayola);
     }
 
     /* portfolio and blog grid */
